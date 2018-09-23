@@ -596,14 +596,14 @@ pre code {
 }
 
 .no-gutters {
-  margin-right: 0;
-  margin-left: 0;
+  margin-right: 10;
+  margin-left: 10;
 }
 
 .no-gutters > .col,
 .no-gutters > [class*="col-"] {
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 10;
+  padding-left: 10;
 }
 
 .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
@@ -8802,6 +8802,10 @@ button.bg-dark:focus {
 
 .text-white {
   color: #fff !important;
+}
+
+.text-mint {
+  color: #9DC8C8;
 }
 
 .text-primary {

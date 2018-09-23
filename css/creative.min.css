@@ -11,7 +11,7 @@ body {
 hr {
 	max-width: 50px;
 	border-width: 3px;
-	border-color: #424242
+	border-color: #3F4B3B
 }
 
 hr.light {
@@ -19,14 +19,14 @@ hr.light {
 }
 
 a {
-	color: #424242;
+	color: #3F4B3B;
 	-webkit-transition: all .2s;
 	-moz-transition: all .2s;
 	transition: all .2s
 }
 
 a:hover {
-	color: #424242
+	color: #3F4B3B
 }
 
 h1,
@@ -39,15 +39,15 @@ h6 {
 }
 
 .bg-primary {
-	background-color: #424242!important
+	background-color: #5CAB7D!important
 }
 
 .bg-secondary {
-	background-color: #6d6d6d!important
+	background-color: #5A9367!important
 }
 
 .bg-dark {
-	background-color: #212529!important
+	background-color: #44633F!important
 }
 
 .text-faded {
@@ -64,13 +64,13 @@ section {
 
 ::-moz-selection {
 	color: #fff;
-	background: #212529;
+	background: #58C9B9;
 	text-shadow: none
 }
 
 ::selection {
 	color: #fff;
-	background: #212529;
+	background: #58C9B9;
 	text-shadow: none
 }
 
@@ -96,13 +96,13 @@ img::-moz-selection {
 #mainNav .navbar-brand {
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #424242;
+	color: #3F4B3B;
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif
 }
 
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-	color: #424242
+	color: #3F4B3B
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link,
@@ -110,17 +110,17 @@ img::-moz-selection {
 	font-size: .9rem;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #212529
+	color: #58C9B9
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover,
 #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
-	color: #424242
+	color: #3F4B3B
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active,
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active {
-	color: #424242!important;
+	color: #3F4B3B!important;
 	background-color: transparent
 }
 
@@ -157,26 +157,26 @@ img::-moz-selection {
 		background-color: #fff
 	}
 	#mainNav.navbar-shrink .navbar-brand {
-		color: #424242
+		color: #3F4B3B
 	}
 	#mainNav.navbar-shrink .navbar-brand:focus,
 	#mainNav.navbar-shrink .navbar-brand:hover {
-		color: #424242
+		color: #3F4B3B
 	}
 	#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link,
 	#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
-		color: #212529
+		color: #58C9B9
 	}
 	#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover,
 	#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover {
-		color: #424242
+		color: #3F4B3B
 	}
 }
 
 header.masthead {
 	padding-top: 10rem;
 	padding-bottom: calc(10rem - 56px);
-	background-image: url(../img/header.jpg);
+	background-color: #3F4B3B;
 	background-position: center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -262,7 +262,7 @@ header.masthead p {
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-	font-size: 14px;
+	font-size: 5px;
 	font-weight: 600;
 	text-transform: uppercase
 }
@@ -281,7 +281,7 @@ header.masthead p {
 
 @media (min-width:768px) {
 	.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-		font-size: 16px
+		font-size: 10px
 	}
 	.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
 		font-size: 22px
@@ -289,7 +289,7 @@ header.masthead p {
 }
 
 .text-primary {
-	color: #424242!important
+	color: #3F4B3B!important
 }
 
 .btn {
@@ -305,8 +305,8 @@ header.masthead p {
 }
 
 .btn-primary {
-	background-color: #424242;
-	border-color: #424242
+	background-color: #44633F;
+	border-color: #44633F
 }
 
 .btn-primary:active,

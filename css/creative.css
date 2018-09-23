@@ -11,7 +11,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #424242;
+  border-color: #9DC8C8;
 }
 
 hr.light {
@@ -19,14 +19,14 @@ hr.light {
 }
 
 a {
-  color: #424242;
+  color: #9DC8C8;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #424242;
+  color: #9DC8C8;
 }
 
 h1,
@@ -39,7 +39,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #424242 !important;
+  background-color: #9DC8C8 !important;
 }
 
 .bg-secondary {
@@ -95,12 +95,12 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #424242;
+  color: #9DC8C8;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #424242;
+  color: #9DC8C8;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -113,12 +113,12 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #424242;
+  color: #9DC8C8;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #424242 !important;
+  color: #9DC8C8 !important;
   background-color: transparent;
 }
 
@@ -154,10 +154,10 @@ img::-moz-selection {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #424242;
+    color: #9DC8C8;
   }
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #424242;
+    color: #9DC8C8;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
@@ -165,7 +165,7 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #424242;
+    color: #9DC8C8;
   }
 }
 
@@ -259,7 +259,7 @@ header.masthead p {
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-  font-size: 14px;
+  font-size: 10px;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -286,7 +286,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #424242 !important;
+  color: #9DC8C8 !important;
 }
 
 .btn {
@@ -302,8 +302,8 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #424242;
-  border-color: #424242;
+  background-color: #9DC8C8;
+  border-color: #9DC8C8;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
